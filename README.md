@@ -36,13 +36,13 @@ A full-stack Contact Manager application that lets you add, edit, and delete con
 ## Screenshots
 
 ### Homepage
-![Homepage](https://github.com/user-attachments/assets/7eab109e-8738-4ce6-a0f0-2e06a6a1f864)
+![Homepage](https://github.com/user-attachments/assets/0cfcb826-918b-4f18-9a02-848852cf1de9)
 
 ### Contact Adding Page
-![Add Contact](https://github.com/user-attachments/assets/9248d241-99a1-4024-b45b-b6f3a6c5b82d)
+![Add Contact](https://github.com/user-attachments/assets/578f2c11-df0c-459b-b431-b14b50b36d91)
 
 ### Mobile Responsive View
-![Mobile View](https://github.com/user-attachments/assets/366ec0cb-1fa6-42ac-9f2d-be64084e779e)
+![Mobile View](https://github.com/user-attachments/assets/84590fa8-4628-4c95-9924-1dea3571cf1d)
 
 ---
 
